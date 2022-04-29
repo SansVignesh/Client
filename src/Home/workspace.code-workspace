@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Container"
+		},
+		{
+			"path": "..\\..\\..\\..\\Customer\\customer"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {}
+}
